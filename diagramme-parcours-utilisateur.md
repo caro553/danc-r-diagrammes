@@ -3,7 +3,7 @@ graph TD
     %% Sections principales depuis la page Home
     A[Home] --> B[Profil]
     A --> C[Recherche]
-    A --> D[Chat]
+    A --> D[Groupe]
     A --> E[Mes Stats]
     A --> F[Mes Replays]
     A --> G["Ajouter (+)"]
